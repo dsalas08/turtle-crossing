@@ -35,9 +35,10 @@ turtle-crossing/
 ├── car_manager.py
 └── scoreboard.py
 
-yaml
-Copy
-Edit
+---
+
+🖼️ Preview
+<img width="602" height="624" alt="turtle-crossing Pic1" src="https://github.com/user-attachments/assets/c3a57e34-daef-41e7-99cf-2b727a2db2c7" />
 
 ---
 
@@ -46,10 +47,6 @@ Edit
 Make sure you have Python installed.
 
 python main.py
-
-yaml
-Copy
-Edit
 
 ---
 
